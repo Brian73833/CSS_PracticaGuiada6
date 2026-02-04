@@ -4,3 +4,18 @@ h1 {
 .miClase {
   font-size: 20px;
 }
+[type="password"]{    
+    border: 2px solid blue;
+    
+}
+a {
+    text-transform: uppercase;
+}
+footer a{  
+    text-transform: lowercase;
+}
+a.test{
+    text-transform: uppercase;
+    color: rgb(255, 0, 0);
+}    
+    
